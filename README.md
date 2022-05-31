@@ -1,6 +1,13 @@
-#ABOUT
-Ecomerce proyect for the React coder-house Course
+# ABOUT
+# Ecomerce proyect for the React coder-house Course
+--New Branch "Dev-Branch"
+--Boostrap instaled-
 
+
+
+# Next Steps 
+
+-Material-UI Library
 
 
 
