@@ -1,6 +1,7 @@
 import React from 'react'
 import * as ReactBootstrap from 'react-bootstrap'
 import './Navbar.css'
+import CartWidget from '../itemCart/CartWidget'
 const Nabvar = () => {
   return (
     <>
@@ -18,7 +19,7 @@ const Nabvar = () => {
               Contacto
             </ReactBootstrap.Nav.Link>
           </ReactBootstrap.Nav>
-          <i class='fa-solid fa-cart-shopping'></i>
+          <CartWidget />
         </ReactBootstrap.Container>
       </ReactBootstrap.Navbar>
     </>
